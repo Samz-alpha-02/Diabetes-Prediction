@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "AMOLED Black Shiny",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "task.allowAutomaticTasks": "on",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor",
+    "*.csv": "gc-excelviewer-csv-editor"
+  }
+}
