@@ -16,6 +16,9 @@ This is a simple web application built with Flask for predicting diabetes based 
 
 This web application uses a machine learning model to predict whether a person is diabetic or non-diabetic based on input features such as Glucose, Blood Pressure, BMI, etc.
 
+## Render Link (Deployed in Cloud):
+https://diabetes-prediction-uimf.onrender.com
+
 ## Installation
 
 1. Clone the repository:
